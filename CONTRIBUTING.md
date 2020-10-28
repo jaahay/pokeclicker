@@ -2,8 +2,8 @@ Please use the issue templates when submitting a bug or improvement.
 
 This helps us fix the issue more easily.
 
-[Bug](https://github.com/pokeclicker/pokeclicker/blob/master/issue_bug_template.md)
+[Bug](https://github.com/pokeclicker/pokeclicker/blob/develop/.github/ISSUE_TEMPLATE/bug_report.md)
 
-[Improvement](https://github.com/pokeclicker/pokeclicker/blob/master/issue_improvement_template.md)
+[Suggestion](https://github.com/pokeclicker/pokeclicker/blob/develop/.github/ISSUE_TEMPLATE/suggestion.md)
 
 When submitting an idea or a new feature, feel free to express your thoughts however you like, no need to follow a template :)
